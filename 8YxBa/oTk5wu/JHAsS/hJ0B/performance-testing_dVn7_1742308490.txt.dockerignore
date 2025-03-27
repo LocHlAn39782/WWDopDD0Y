@@ -9,7 +9,6 @@ Dockerfile
 .DS_Store
 .aider*
 .env*
-dist
 scratch
 *.sqlite
 
